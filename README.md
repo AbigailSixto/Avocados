@@ -30,6 +30,7 @@ The company has no experience on selling organic avocados and they would like a 
 Hypotheses
 
 H1 – There is a difference on average price of organic avocados and conventional avocados
+
 H0 – There are no difference on average price between organic and conventional avocados
 
 H2- There are regional differences in average prices of avocados
@@ -52,11 +53,16 @@ Total Volume - Total number of avocados sold
 4225 - Total number of avocados with PLU 4225 sold (Hass – large)
 4770 - Total number of avocados with PLU 4770 sold (Extra Large)
 
-After inspecting the region column is was noted that included some values as 'Northeast' 'SouthCentral' 'Southeast' 'TotalUS' 'West'. 
+After inspecting the region column is was noted that included some values as 'Northeast' 'SouthCentral' 'Southeast' 'TotalUS' 'West'. Those rows appear to be a sumary of the cities so we would separate them and do the study based on that classification. in the future the study could focus on a particular city or smaller region of interest for the client.
+
 
 
 
 Findings
+
+
+
+
 
 
 
